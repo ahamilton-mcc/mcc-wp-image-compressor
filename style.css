@@ -182,6 +182,15 @@ footer {
   text-align: center;
 }
 
+footer .disclaimer {
+  margin-top: 16px;
+  font-size: 11px;
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.5;
+}
+
 footer .credit {
   margin-top: 10px;
   font-size: 12px;
