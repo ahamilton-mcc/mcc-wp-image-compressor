@@ -181,3 +181,12 @@ footer {
   font-size: 13px;
   text-align: center;
 }
+
+footer .credit {
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+footer .credit a {
+  color: var(--accent);
+}
